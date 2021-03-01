@@ -17,6 +17,7 @@ public class AppTest
      */
     public AppTest( String testName )
     {
+       //this is constructor
         super( testName );
     }
 
