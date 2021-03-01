@@ -1,0 +1,418 @@
+!SESSION 2020-05-23 10:03:47.682 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_251
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file C:\Users\C5300649\API_Automation\.metadata\.bak_0.log
+Created Time: 2020-05-23 13:25:12.924
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2020-05-23 13:25:12.925
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Verifying product is added or not : Not Started - Undefined (2)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:718)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:629)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:546)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:542)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:537)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:89)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:381)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:380)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:278)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2020-05-23 13:25:13.221
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Verifying product is added or not : Completed - OK (2)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:718)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:629)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:546)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:542)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:537)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:89)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:381)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:380)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:278)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2020-05-23 13:25:13.228
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Verifying product is added or not : Completed - OK (2)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:718)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testEnded(TestRunSession.java:655)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$4.run(RemoteTestRunnerClient.java:531)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestEnded(RemoteTestRunnerClient.java:527)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$7(RemoteTestRunnerClient.java:522)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:93)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:381)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:380)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:278)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2020-05-23 13:39:12.884
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Verifying product is added or not : Not Started - Undefined (2)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:718)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:629)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:546)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:542)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:537)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:89)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:381)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:380)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:278)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2020-05-23 13:39:13.803
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Verifying product is added or not : Completed - Error (2)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:718)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testEnded(TestRunSession.java:655)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$4.run(RemoteTestRunnerClient.java:531)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestEnded(RemoteTestRunnerClient.java:527)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$7(RemoteTestRunnerClient.java:522)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:93)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:381)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:380)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:278)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2020-05-23 13:40:39.286
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Verifying product is added or not : Not Started - Undefined (2)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:718)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:629)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:546)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:542)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:537)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:89)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:381)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:380)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:278)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2020-05-23 13:40:40.356
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Verifying product is added or not : Completed - Error (2)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:718)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testEnded(TestRunSession.java:655)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$4.run(RemoteTestRunnerClient.java:531)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestEnded(RemoteTestRunnerClient.java:527)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$7(RemoteTestRunnerClient.java:522)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:93)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:381)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:380)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:278)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2020-05-23 13:41:56.952
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Verifying product is added or not : Not Started - Undefined (2)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:718)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:629)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:546)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:542)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:537)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:89)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:381)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:380)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:278)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2020-05-23 13:42:00.320
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Verifying product is added or not : Completed - OK (2)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:718)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testEnded(TestRunSession.java:655)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$4.run(RemoteTestRunnerClient.java:531)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestEnded(RemoteTestRunnerClient.java:527)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$7(RemoteTestRunnerClient.java:522)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:93)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:381)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:380)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:278)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2020-05-23 15:00:29.044
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Verifying product is added or not : Not Started - Undefined (3)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:718)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:629)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:546)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:542)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:537)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:89)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:381)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:380)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:278)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2020-05-23 15:00:32.282
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Verifying product is added or not : Completed - OK (3)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:718)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testStarted(TestRunSession.java:629)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$5.run(RemoteTestRunnerClient.java:546)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestStarted(RemoteTestRunnerClient.java:542)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$6(RemoteTestRunnerClient.java:537)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:89)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:381)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:380)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:278)
+
+!ENTRY org.eclipse.jdt.junit.core 4 4 2020-05-23 15:00:32.288
+!MESSAGE Error
+!STACK 0
+java.lang.Exception: Unexpected TestElement type for testId '3': TestSuite: Scenario: Verifying product is added or not : Completed - OK (3)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.logUnexpectedTest(TestRunSession.java:718)
+	at org.eclipse.jdt.internal.junit.model.TestRunSession$TestSessionNotifier.testEnded(TestRunSession.java:655)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$4.run(RemoteTestRunnerClient.java:531)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.notifyTestEnded(RemoteTestRunnerClient.java:527)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$7(RemoteTestRunnerClient.java:522)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$DefaultProcessingState.readMessage(RemoteTestRunnerClient.java:93)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.receiveMessage(RemoteTestRunnerClient.java:381)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient.access$27(RemoteTestRunnerClient.java:380)
+	at org.eclipse.jdt.internal.junit.model.RemoteTestRunnerClient$ServerConnection.run(RemoteTestRunnerClient.java:278)
+
+!ENTRY org.testng.eclipse 1 0 2020-05-23 15:21:34.967
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\C5300649\eclipse\configuration\org.eclipse.osgi\988\0\.cp\lib\testng-remote.jar C:\Users\C5300649\API_Automation\Automation\target\test-classes C:\Users\C5300649\API_Automation\Automation\target\classes C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured\3.0.6\rest-assured-3.0.6.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy\2.4.12\groovy-2.4.12.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.12\groovy-xml-2.4.12.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar C:\Users\C5300649\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\C5300649\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar C:\Users\C5300649\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\C5300649\.m2\repository\io\rest-assured\json-path\3.0.6\json-path-3.0.6.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-json\2.4.12\groovy-json-2.4.12.jar C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured-common\3.0.6\rest-assured-common-3.0.6.jar C:\Users\C5300649\.m2\repository\io\rest-assured\xml-path\3.0.6\xml-path-3.0.6.jar C:\Users\C5300649\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar C:\Users\C5300649\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar C:\Users\C5300649\.m2\repository\com\google\code\gson\gson\2.8.1\gson-2.8.1.jar C:\Users\C5300649\.m2\repository\org\testng\testng\6.10\testng-6.10.jar C:\Users\C5300649\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\C5300649\.m2\repository\org\json\json\20170516\json-20170516.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-java\1.2.0\cucumber-java-1.2.0.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-core\1.2.0\cucumber-core-1.2.0.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar C:\Users\C5300649\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-junit\1.2.0\cucumber-junit-1.2.0.jar C:\Users\C5300649\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.0\jackson-databind-2.11.0.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.0\jackson-annotations-2.11.0.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.0\jackson-core-2.11.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60267 -protocol json -d C:\Users\C5300649\API_Automation\Automation\test-output C:\Users\C5300649\AppData\Local\Temp\testng-eclipse-1415647276\testng-customsuite.xml
+java -ea -classpath C:\Users\C5300649\eclipse\configuration\org.eclipse.osgi\988\0\.cp\lib\testng-remote.jar:C:\Users\C5300649\API_Automation\Automation\target\test-classes:C:\Users\C5300649\API_Automation\Automation\target\classes:C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured\3.0.6\rest-assured-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy\2.4.12\groovy-2.4.12.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.12\groovy-xml-2.4.12.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar:C:\Users\C5300649\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\C5300649\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar:C:\Users\C5300649\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\json-path\3.0.6\json-path-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-json\2.4.12\groovy-json-2.4.12.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured-common\3.0.6\rest-assured-common-3.0.6.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\xml-path\3.0.6\xml-path-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar:C:\Users\C5300649\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar:C:\Users\C5300649\.m2\repository\com\google\code\gson\gson\2.8.1\gson-2.8.1.jar:C:\Users\C5300649\.m2\repository\org\testng\testng\6.10\testng-6.10.jar:C:\Users\C5300649\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\C5300649\.m2\repository\org\json\json\20170516\json-20170516.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-java\1.2.0\cucumber-java-1.2.0.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-core\1.2.0\cucumber-core-1.2.0.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar:C:\Users\C5300649\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-junit\1.2.0\cucumber-junit-1.2.0.jar:C:\Users\C5300649\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.0\jackson-databind-2.11.0.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.0\jackson-annotations-2.11.0.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.0\jackson-core-2.11.0.jar org.testng.remote.RemoteTestNG -serport 60267 -protocol json -d C:\Users\C5300649\API_Automation\Automation\test-output C:\Users\C5300649\AppData\Local\Temp\testng-eclipse-1415647276\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-05-23 15:22:15.199
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\C5300649\eclipse\configuration\org.eclipse.osgi\988\0\.cp\lib\testng-remote.jar C:\Users\C5300649\API_Automation\Automation\target\test-classes C:\Users\C5300649\API_Automation\Automation\target\classes C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured\3.0.6\rest-assured-3.0.6.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy\2.4.12\groovy-2.4.12.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.12\groovy-xml-2.4.12.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar C:\Users\C5300649\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\C5300649\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar C:\Users\C5300649\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\C5300649\.m2\repository\io\rest-assured\json-path\3.0.6\json-path-3.0.6.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-json\2.4.12\groovy-json-2.4.12.jar C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured-common\3.0.6\rest-assured-common-3.0.6.jar C:\Users\C5300649\.m2\repository\io\rest-assured\xml-path\3.0.6\xml-path-3.0.6.jar C:\Users\C5300649\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar C:\Users\C5300649\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar C:\Users\C5300649\.m2\repository\com\google\code\gson\gson\2.8.1\gson-2.8.1.jar C:\Users\C5300649\.m2\repository\org\testng\testng\6.10\testng-6.10.jar C:\Users\C5300649\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\C5300649\.m2\repository\org\json\json\20170516\json-20170516.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-java\1.2.0\cucumber-java-1.2.0.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-core\1.2.0\cucumber-core-1.2.0.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar C:\Users\C5300649\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-junit\1.2.0\cucumber-junit-1.2.0.jar C:\Users\C5300649\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.0\jackson-databind-2.11.0.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.0\jackson-annotations-2.11.0.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.0\jackson-core-2.11.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60271 -protocol json -d C:\Users\C5300649\API_Automation\Automation\test-output C:\Users\C5300649\AppData\Local\Temp\testng-eclipse-639870900\testng-customsuite.xml
+java -ea -classpath C:\Users\C5300649\eclipse\configuration\org.eclipse.osgi\988\0\.cp\lib\testng-remote.jar:C:\Users\C5300649\API_Automation\Automation\target\test-classes:C:\Users\C5300649\API_Automation\Automation\target\classes:C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured\3.0.6\rest-assured-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy\2.4.12\groovy-2.4.12.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.12\groovy-xml-2.4.12.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar:C:\Users\C5300649\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\C5300649\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar:C:\Users\C5300649\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\json-path\3.0.6\json-path-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-json\2.4.12\groovy-json-2.4.12.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured-common\3.0.6\rest-assured-common-3.0.6.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\xml-path\3.0.6\xml-path-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar:C:\Users\C5300649\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar:C:\Users\C5300649\.m2\repository\com\google\code\gson\gson\2.8.1\gson-2.8.1.jar:C:\Users\C5300649\.m2\repository\org\testng\testng\6.10\testng-6.10.jar:C:\Users\C5300649\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\C5300649\.m2\repository\org\json\json\20170516\json-20170516.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-java\1.2.0\cucumber-java-1.2.0.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-core\1.2.0\cucumber-core-1.2.0.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar:C:\Users\C5300649\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-junit\1.2.0\cucumber-junit-1.2.0.jar:C:\Users\C5300649\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.0\jackson-databind-2.11.0.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.0\jackson-annotations-2.11.0.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.0\jackson-core-2.11.0.jar org.testng.remote.RemoteTestNG -serport 60271 -protocol json -d C:\Users\C5300649\API_Automation\Automation\test-output C:\Users\C5300649\AppData\Local\Temp\testng-eclipse-639870900\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-05-23 15:23:20.636
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\C5300649\eclipse\configuration\org.eclipse.osgi\988\0\.cp\lib\testng-remote.jar C:\Users\C5300649\API_Automation\Automation\target\test-classes C:\Users\C5300649\API_Automation\Automation\target\classes C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured\3.0.6\rest-assured-3.0.6.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy\2.4.12\groovy-2.4.12.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.12\groovy-xml-2.4.12.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar C:\Users\C5300649\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\C5300649\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar C:\Users\C5300649\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\C5300649\.m2\repository\io\rest-assured\json-path\3.0.6\json-path-3.0.6.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-json\2.4.12\groovy-json-2.4.12.jar C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured-common\3.0.6\rest-assured-common-3.0.6.jar C:\Users\C5300649\.m2\repository\io\rest-assured\xml-path\3.0.6\xml-path-3.0.6.jar C:\Users\C5300649\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar C:\Users\C5300649\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar C:\Users\C5300649\.m2\repository\com\google\code\gson\gson\2.8.1\gson-2.8.1.jar C:\Users\C5300649\.m2\repository\org\testng\testng\6.10\testng-6.10.jar C:\Users\C5300649\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\C5300649\.m2\repository\org\json\json\20170516\json-20170516.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-java\1.2.0\cucumber-java-1.2.0.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-core\1.2.0\cucumber-core-1.2.0.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar C:\Users\C5300649\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-junit\1.2.0\cucumber-junit-1.2.0.jar C:\Users\C5300649\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.0\jackson-databind-2.11.0.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.0\jackson-annotations-2.11.0.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.0\jackson-core-2.11.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 60278 -protocol json -d C:\Users\C5300649\API_Automation\Automation\test-output C:\Users\C5300649\AppData\Local\Temp\testng-eclipse-23795966\testng-customsuite.xml
+java -ea -classpath C:\Users\C5300649\eclipse\configuration\org.eclipse.osgi\988\0\.cp\lib\testng-remote.jar:C:\Users\C5300649\API_Automation\Automation\target\test-classes:C:\Users\C5300649\API_Automation\Automation\target\classes:C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured\3.0.6\rest-assured-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy\2.4.12\groovy-2.4.12.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.12\groovy-xml-2.4.12.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar:C:\Users\C5300649\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\C5300649\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar:C:\Users\C5300649\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\json-path\3.0.6\json-path-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-json\2.4.12\groovy-json-2.4.12.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured-common\3.0.6\rest-assured-common-3.0.6.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\xml-path\3.0.6\xml-path-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar:C:\Users\C5300649\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar:C:\Users\C5300649\.m2\repository\com\google\code\gson\gson\2.8.1\gson-2.8.1.jar:C:\Users\C5300649\.m2\repository\org\testng\testng\6.10\testng-6.10.jar:C:\Users\C5300649\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\C5300649\.m2\repository\org\json\json\20170516\json-20170516.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-java\1.2.0\cucumber-java-1.2.0.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-core\1.2.0\cucumber-core-1.2.0.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar:C:\Users\C5300649\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-junit\1.2.0\cucumber-junit-1.2.0.jar:C:\Users\C5300649\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.0\jackson-databind-2.11.0.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.0\jackson-annotations-2.11.0.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.0\jackson-core-2.11.0.jar org.testng.remote.RemoteTestNG -serport 60278 -protocol json -d C:\Users\C5300649\API_Automation\Automation\test-output C:\Users\C5300649\AppData\Local\Temp\testng-eclipse-23795966\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-05-23 15:24:58.558
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\C5300649\eclipse\configuration\org.eclipse.osgi\988\0\.cp\lib\testng-remote.jar C:\Users\C5300649\API_Automation\Automation\target\test-classes C:\Users\C5300649\API_Automation\Automation\target\classes C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured\3.0.6\rest-assured-3.0.6.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy\2.4.12\groovy-2.4.12.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.12\groovy-xml-2.4.12.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar C:\Users\C5300649\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\C5300649\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar C:\Users\C5300649\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\C5300649\.m2\repository\io\rest-assured\json-path\3.0.6\json-path-3.0.6.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-json\2.4.12\groovy-json-2.4.12.jar C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured-common\3.0.6\rest-assured-common-3.0.6.jar C:\Users\C5300649\.m2\repository\io\rest-assured\xml-path\3.0.6\xml-path-3.0.6.jar C:\Users\C5300649\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar C:\Users\C5300649\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar C:\Users\C5300649\.m2\repository\com\google\code\gson\gson\2.8.1\gson-2.8.1.jar C:\Users\C5300649\.m2\repository\org\testng\testng\6.10\testng-6.10.jar C:\Users\C5300649\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\C5300649\.m2\repository\org\json\json\20170516\json-20170516.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-java\1.2.0\cucumber-java-1.2.0.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-core\1.2.0\cucumber-core-1.2.0.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar C:\Users\C5300649\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-junit\1.2.0\cucumber-junit-1.2.0.jar C:\Users\C5300649\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.0\jackson-databind-2.11.0.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.0\jackson-annotations-2.11.0.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.0\jackson-core-2.11.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 55039 -protocol json -d C:\Users\C5300649\API_Automation\Automation\test-output C:\Users\C5300649\AppData\Local\Temp\testng-eclipse--972213312\testng-customsuite.xml
+java -ea -classpath C:\Users\C5300649\eclipse\configuration\org.eclipse.osgi\988\0\.cp\lib\testng-remote.jar:C:\Users\C5300649\API_Automation\Automation\target\test-classes:C:\Users\C5300649\API_Automation\Automation\target\classes:C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured\3.0.6\rest-assured-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy\2.4.12\groovy-2.4.12.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.12\groovy-xml-2.4.12.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar:C:\Users\C5300649\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\C5300649\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar:C:\Users\C5300649\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\json-path\3.0.6\json-path-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-json\2.4.12\groovy-json-2.4.12.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured-common\3.0.6\rest-assured-common-3.0.6.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\xml-path\3.0.6\xml-path-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar:C:\Users\C5300649\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar:C:\Users\C5300649\.m2\repository\com\google\code\gson\gson\2.8.1\gson-2.8.1.jar:C:\Users\C5300649\.m2\repository\org\testng\testng\6.10\testng-6.10.jar:C:\Users\C5300649\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\C5300649\.m2\repository\org\json\json\20170516\json-20170516.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-java\1.2.0\cucumber-java-1.2.0.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-core\1.2.0\cucumber-core-1.2.0.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar:C:\Users\C5300649\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-junit\1.2.0\cucumber-junit-1.2.0.jar:C:\Users\C5300649\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.0\jackson-databind-2.11.0.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.0\jackson-annotations-2.11.0.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.0\jackson-core-2.11.0.jar org.testng.remote.RemoteTestNG -serport 55039 -protocol json -d C:\Users\C5300649\API_Automation\Automation\test-output C:\Users\C5300649\AppData\Local\Temp\testng-eclipse--972213312\testng-customsuite.xml
+
+!ENTRY org.testng.eclipse 1 0 2020-05-23 15:25:17.341
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\C5300649\eclipse\configuration\org.eclipse.osgi\988\0\.cp\lib\testng-remote.jar C:\Users\C5300649\API_Automation\Automation\target\test-classes C:\Users\C5300649\API_Automation\Automation\target\classes C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured\3.0.6\rest-assured-3.0.6.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy\2.4.12\groovy-2.4.12.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.12\groovy-xml-2.4.12.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar C:\Users\C5300649\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar C:\Users\C5300649\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar C:\Users\C5300649\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar C:\Users\C5300649\.m2\repository\io\rest-assured\json-path\3.0.6\json-path-3.0.6.jar C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-json\2.4.12\groovy-json-2.4.12.jar C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured-common\3.0.6\rest-assured-common-3.0.6.jar C:\Users\C5300649\.m2\repository\io\rest-assured\xml-path\3.0.6\xml-path-3.0.6.jar C:\Users\C5300649\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar C:\Users\C5300649\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar C:\Users\C5300649\.m2\repository\com\google\code\gson\gson\2.8.1\gson-2.8.1.jar C:\Users\C5300649\.m2\repository\org\testng\testng\6.10\testng-6.10.jar C:\Users\C5300649\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar C:\Users\C5300649\.m2\repository\org\json\json\20170516\json-20170516.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-java\1.2.0\cucumber-java-1.2.0.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-core\1.2.0\cucumber-core-1.2.0.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar C:\Users\C5300649\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-junit\1.2.0\cucumber-junit-1.2.0.jar C:\Users\C5300649\.m2\repository\junit\junit\4.11\junit-4.11.jar C:\Users\C5300649\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.0\jackson-databind-2.11.0.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.0\jackson-annotations-2.11.0.jar C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.0\jackson-core-2.11.0.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 55042 -protocol json -d C:\Users\C5300649\API_Automation\Automation\test-output C:\Users\C5300649\AppData\Local\Temp\testng-eclipse-1867264219\testng-customsuite.xml
+java -ea -classpath C:\Users\C5300649\eclipse\configuration\org.eclipse.osgi\988\0\.cp\lib\testng-remote.jar:C:\Users\C5300649\API_Automation\Automation\target\test-classes:C:\Users\C5300649\API_Automation\Automation\target\classes:C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured\3.0.6\rest-assured-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy\2.4.12\groovy-2.4.12.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-xml\2.4.12\groovy-xml-2.4.12.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpclient\4.5.3\httpclient-4.5.3.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpcore\4.4.6\httpcore-4.4.6.jar:C:\Users\C5300649\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar:C:\Users\C5300649\.m2\repository\commons-codec\commons-codec\1.9\commons-codec-1.9.jar:C:\Users\C5300649\.m2\repository\org\apache\httpcomponents\httpmime\4.5.1\httpmime-4.5.1.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar:C:\Users\C5300649\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\json-path\3.0.6\json-path-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\codehaus\groovy\groovy-json\2.4.12\groovy-json-2.4.12.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\rest-assured-common\3.0.6\rest-assured-common-3.0.6.jar:C:\Users\C5300649\.m2\repository\io\rest-assured\xml-path\3.0.6\xml-path-3.0.6.jar:C:\Users\C5300649\.m2\repository\org\apache\commons\commons-lang3\3.4\commons-lang3-3.4.jar:C:\Users\C5300649\.m2\repository\javax\xml\bind\jaxb-api\2.2.12\jaxb-api-2.2.12.jar:C:\Users\C5300649\.m2\repository\com\google\code\gson\gson\2.8.1\gson-2.8.1.jar:C:\Users\C5300649\.m2\repository\org\testng\testng\6.10\testng-6.10.jar:C:\Users\C5300649\.m2\repository\com\beust\jcommander\1.48\jcommander-1.48.jar:C:\Users\C5300649\.m2\repository\org\json\json\20170516\json-20170516.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-java\1.2.0\cucumber-java-1.2.0.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-core\1.2.0\cucumber-core-1.2.0.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-html\0.2.3\cucumber-html-0.2.3.jar:C:\Users\C5300649\.m2\repository\info\cukes\gherkin\2.12.2\gherkin-2.12.2.jar:C:\Users\C5300649\.m2\repository\org\hamcrest\hamcrest-all\1.3\hamcrest-all-1.3.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-junit\1.2.0\cucumber-junit-1.2.0.jar:C:\Users\C5300649\.m2\repository\junit\junit\4.11\junit-4.11.jar:C:\Users\C5300649\.m2\repository\info\cukes\cucumber-jvm-deps\1.0.5\cucumber-jvm-deps-1.0.5.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.11.0\jackson-databind-2.11.0.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.11.0\jackson-annotations-2.11.0.jar:C:\Users\C5300649\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.11.0\jackson-core-2.11.0.jar org.testng.remote.RemoteTestNG -serport 55042 -protocol json -d C:\Users\C5300649\API_Automation\Automation\test-output C:\Users\C5300649\AppData\Local\Temp\testng-eclipse-1867264219\testng-customsuite.xml
+!SESSION 2020-07-09 12:10:10.524 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_251
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-09 12:10:33.509
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\C5300649'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2020-07-09 12:10:40.657
+!MESSAGE Server ‘org.eclipse.epp.logging.aeri.ide.server’ failed with exception: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1. ; version: 2.0.4.v20170307-1435
+!STACK 0
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:176)
+	at com.google.gson.Gson.fromJson(Gson.java:803)
+	at com.google.gson.Gson.fromJson(Gson.java:768)
+	at com.google.gson.Gson.fromJson(Gson.java:717)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.json.Json.deserialize(Json.java:93)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:70)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:124)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:165)
+	... 9 more
+!SESSION 2020-07-09 12:41:30.254 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_251
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-09 12:41:45.220
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\C5300649'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2020-07-09 12:41:52.337
+!MESSAGE Server ‘org.eclipse.epp.logging.aeri.ide.server’ failed with exception: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1. ; version: 2.0.4.v20170307-1435
+!STACK 0
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:176)
+	at com.google.gson.Gson.fromJson(Gson.java:803)
+	at com.google.gson.Gson.fromJson(Gson.java:768)
+	at com.google.gson.Gson.fromJson(Gson.java:717)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.json.Json.deserialize(Json.java:93)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:70)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:124)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:165)
+	... 9 more
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2020-07-09 12:58:39.626
+!MESSAGE HTTP Remote File Permanently Removed: http://beust.com/eclipse/compositeContent.xml
+!STACK 1
+org.eclipse.ecf.filetransfer.BrowseFileTransferException: HttpComponents connection error response code 410.
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientFileSystemBrowser.runRequest(HttpClientFileSystemBrowser.java:293)
+	at org.eclipse.ecf.provider.filetransfer.browse.AbstractFileSystemBrowser$DirectoryJob.run(AbstractFileSystemBrowser.java:69)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.ecf.identity 4 0 2020-07-09 12:58:39.626
+!MESSAGE HttpComponents connection error response code 410.
+!SESSION 2020-07-09 18:01:41.025 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_251
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-09 18:01:56.636
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\C5300649'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 17 2020-07-09 18:02:03.087
+!MESSAGE Server ‘org.eclipse.epp.logging.aeri.ide.server’ failed with exception: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1. ; version: 2.0.4.v20170307-1435
+!STACK 0
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:176)
+	at com.google.gson.Gson.fromJson(Gson.java:803)
+	at com.google.gson.Gson.fromJson(Gson.java:768)
+	at com.google.gson.Gson.fromJson(Gson.java:717)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.json.Json.deserialize(Json.java:93)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:70)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:124)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:165)
+	... 9 more
+!SESSION 2020-07-28 18:12:18.278 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=11.0.7
+java.vendor=SAP SE
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -clean
+
+!ENTRY org.eclipse.osgi 4 0 2020-07-28 18:13:55.521
+!MESSAGE Application error
+!STACK 1
+org.eclipse.e4.core.di.InjectionException: java.lang.NoClassDefFoundError: javax/annotation/PostConstruct
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:386)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:294)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application.createDefaultHeadlessContext(E4Application.java:490)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application.createDefaultContext(E4Application.java:504)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application.createE4Workbench(E4Application.java:203)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:632)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+Caused by: java.lang.NoClassDefFoundError: javax/annotation/PostConstruct
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:151)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:375)
+	... 22 more
+Caused by: java.lang.ClassNotFoundException: javax.annotation.PostConstruct cannot be found by org.eclipse.e4.core.di_1.6.1.v20160712-0927
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:410)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:372)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:364)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:161)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	... 24 more
+
+!ENTRY org.eclipse.e4.ui.workbench 4 0 2020-07-28 18:13:55.550
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+java.lang.NoClassDefFoundError: javax/annotation/PreDestroy
+	at org.eclipse.e4.core.internal.di.InjectorImpl.disposed(InjectorImpl.java:426)
+	at org.eclipse.e4.core.internal.di.Requestor.disposed(Requestor.java:154)
+	at org.eclipse.e4.core.internal.contexts.ContextObjectSupplier$ContextInjectionListener.update(ContextObjectSupplier.java:78)
+	at org.eclipse.e4.core.internal.contexts.TrackableComputationExt.update(TrackableComputationExt.java:111)
+	at org.eclipse.e4.core.internal.contexts.TrackableComputationExt.handleInvalid(TrackableComputationExt.java:74)
+	at org.eclipse.e4.core.internal.contexts.EclipseContext.dispose(EclipseContext.java:176)
+	at org.eclipse.e4.core.internal.contexts.osgi.EclipseContextOSGi.dispose(EclipseContextOSGi.java:106)
+	at org.eclipse.e4.core.internal.contexts.osgi.EclipseContextOSGi.bundleChanged(EclipseContextOSGi.java:139)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.dispatchEvent(BundleContextImpl.java:903)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEventPrivileged(EquinoxEventPublisher.java:213)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:120)
+	at org.eclipse.osgi.internal.framework.EquinoxEventPublisher.publishBundleEvent(EquinoxEventPublisher.java:112)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor.publishModuleEvent(EquinoxContainerAdaptor.java:156)
+	at org.eclipse.osgi.container.Module.publishEvent(Module.java:476)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:634)
+	at org.eclipse.osgi.container.Module.stop(Module.java:498)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:202)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:165)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+Caused by: java.lang.ClassNotFoundException: javax.annotation.PreDestroy cannot be found by org.eclipse.e4.core.di_1.6.1.v20160712-0927
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:410)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:372)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:364)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:161)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:522)
+	... 21 more

@@ -1,0 +1,50 @@
+Request method:	POST
+Request URI:	http://localhost:3030/products
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Mobile shops",
+    "type": "New type",
+    "price": 450,
+    "shipping": 700,
+    "upc": "upc",
+    "description": "Adding product from api",
+    "manufacturer": "India",
+    "model": "Latest",
+    "url": "Google.com",
+    "image": "One.jpg"
+}
+HTTP/1.1 201 Created
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Allow: GET,POST,PUT,PATCH,DELETE
+Vary: Accept, Accept-Encoding
+Content-Type: application/json; charset=utf-8
+Content-Length: 288
+ETag: W/"120-2A1O7Q7C4/2fBQmvxgj9GzI7MpU"
+Date: Sat, 23 May 2020 09:30:32 GMT
+Connection: keep-alive
+
+{
+    "id": 9999685,
+    "name": "Mobile shops",
+    "type": "New type",
+    "price": 450,
+    "shipping": 700,
+    "upc": "upc",
+    "description": "Adding product from api",
+    "manufacturer": "India",
+    "model": "Latest",
+    "url": "Google.com",
+    "image": "One.jpg",
+    "updatedAt": "2020-05-23T09:30:32.194Z",
+    "createdAt": "2020-05-23T09:30:32.194Z"
+}
